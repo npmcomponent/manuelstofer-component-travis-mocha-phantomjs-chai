@@ -1,14 +1,7 @@
 {
-    "name": "component-travis-mocha-phantomjs-chai",
-    "version": "0.1.0",
-    "author": "Manuel Stofer <manuel@takimata.ch>",
-    "devDependencies": {
-        "mocha": "*",
-        "chai": "*",
-        "component": "*",
-        "mocha-phantomjs": "*"
-    },
-    "scripts": {
-        "test": "make test"
-    }
+  "name": "manuelstofer-component-travis-mocha-phantomjs-chai",
+  "description": "test setup for components with travis support",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {}
 }
